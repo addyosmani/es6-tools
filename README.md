@@ -29,3 +29,10 @@
 ## Editors
 
 * [ES6 syntax highlighting for Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+
+## Code generation
+
+* [generator-traceur](https://github.com/mikach/generator-traceur) - Yeoman generator for Traceur apps
+* [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) 
+* [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
+* Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
