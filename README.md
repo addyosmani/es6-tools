@@ -36,3 +36,7 @@
 * [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) 
 * [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
 * Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
+
+## Other
+* [looper](https://github.com/wycats/looper) - static analysis tools for ES6
+* [es6-module-packager](https://npmjs.org/package/es6-module-packager)
