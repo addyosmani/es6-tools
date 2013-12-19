@@ -24,3 +24,8 @@
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compatible with Traceur)
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
 * [js-loaders](https://github.com/jorendorff/js-loaders)
+
+
+## Editors
+
+* [ES6 syntax highlighting for Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
