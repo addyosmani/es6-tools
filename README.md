@@ -17,3 +17,10 @@
 * [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
 * [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/ES6-Promises/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
+
+
+## Module Loaders
+
+* ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compatible with Traceur)
+* [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
+* [js-loaders](https://github.com/jorendorff/js-loaders)
