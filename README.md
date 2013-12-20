@@ -25,7 +25,7 @@
 * [js-loaders](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
 * Module Loader for [webpack](https://github.com/shama/es6-module-loader)
-
+* [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
 ## Editors
 
