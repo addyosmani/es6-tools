@@ -34,6 +34,23 @@
 * [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
 * Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
 
+## Polyfills
+
+* [es6-shim](http://github.com/paulmillr/es6-shim/)
+* [String.prototype.startsWith](https://github.com/mathiasbynens/String.prototype.startsWith)
+* [String.prototype.endsWith](https://github.com/mathiasbynens/String.prototype.endsWith)
+* [String.prototype.at](https://github.com/mathiasbynens/String.prototype.at)
+* [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
+* [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/ES6-Harmony-Collections-Shim)
+* [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
+* [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6) 
+* [Function.create](https://github.com/walling/Function.create.js) 
+* [String.prototype.contains](https://github.com/robertkowalski/contains.js) 
+* [Object.observe() shim](https://github.com/KapIT/observe-shim)
+* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/harmony.js) 
+* [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
+
+
 ## Editors
 
 * ES6 syntax highlighting for [Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
