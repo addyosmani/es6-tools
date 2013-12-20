@@ -27,17 +27,17 @@
 * Module Loader for [webpack](https://github.com/shama/es6-module-loader)
 * [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
-## Editors
-
-* ES6 syntax highlighting for [Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
-* DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
-
 ## Code generation
 
 * [generator-traceur](https://github.com/mikach/generator-traceur) - Yeoman generator for Traceur apps
 * [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) 
 * [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
 * Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
+
+## Editors
+
+* ES6 syntax highlighting for [Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+* DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
 
 ## Other
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6
