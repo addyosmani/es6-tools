@@ -55,6 +55,7 @@
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/harmony.js) 
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
+* [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 
 
 ## Editors
