@@ -36,7 +36,7 @@
 
 ## Polyfills
 
-* [es6-shim](http://github.com/paulmillr/es6-shim/) - Map, Set, string.repeat/startsWith/endsWith/contains, Array.from/of, Object.is and more.
+* [es6-shim](http://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/ES6-Harmony-Collections-Shim)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [String.prototype.startsWith](https://github.com/mathiasbynens/String.prototype.startsWith)
@@ -46,6 +46,8 @@
 * [String.prototype.contains](https://github.com/mathiasbynens/String.prototype.contains)
 * [String.prototype.codePointAt](https://github.com/mathiasbynens/String.prototype.codePointAt)
 * [String.fromCodePoint](https://github.com/mathiasbynens/String.fromCodePoint)
+* [Array.prototype.find](https://github.com/paulmillr/Array.prototype.find)
+* [Array.prototype.findIndex](https://github.com/paulmillr/Array.prototype.findIndex)
 * [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6) 
