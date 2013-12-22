@@ -33,7 +33,7 @@
 ## Code generation
 
 * [generator-traceur](https://github.com/mikach/generator-traceur) - Yeoman generator for Traceur apps
-* [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) 
+* [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) - scaffold node modules with unit tests, authored in ES6
 * [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
 * Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
 
