@@ -10,6 +10,7 @@
 * [defs](https://github.com/olov/defs) - ES6 block scoped const and let variables to ES3 vars
 * [let-er](https://github.com/getify/let-er) - transpiles let-block block-scoping into either ES3 or ES6
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
+* [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 
 ## Build-time transpilation
 
