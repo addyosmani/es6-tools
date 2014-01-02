@@ -8,6 +8,7 @@
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * [defs](https://github.com/olov/defs) - ES6 block scoped const and let variables to ES3 vars
+* [let-er](https://github.com/getify/let-er) - transpiles let-block block-scoping into either ES3 or ES6
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 
 ## Build-time transpilation
