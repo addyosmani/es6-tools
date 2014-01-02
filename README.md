@@ -22,6 +22,7 @@
 ### Gulp
 * [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
 * [gulp-regenerate](https://github.com/sindresorhus/gulp-regenerator)
+* [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
 
 ## Module Loaders
 
