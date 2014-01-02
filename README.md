@@ -10,19 +10,19 @@
 * [defs](https://github.com/olov/defs) - ES6 block scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 
-## Tasks for build-time transpilation
+## Build-time transpilation
 
-### Grunt 
-* Tasks for Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES6 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
-* Task for Square's transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
-* Task for regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
+### Grunt Tasks 
+* Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES6 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
+* ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
+* Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
 * [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/ES6-Promises/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 
-### Gulp
-* [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
-* [gulp-regenerate](https://github.com/sindresorhus/gulp-regenerator)
-* [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
+### Gulp Plugins
+* Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
+* Regenerator: [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator)
+* ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
 
 ## Module Loaders
 
