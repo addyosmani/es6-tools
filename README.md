@@ -81,3 +81,4 @@
 * [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://npmjs.org/package/es6-module-packager)
+* [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
