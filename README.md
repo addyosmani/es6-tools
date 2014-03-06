@@ -11,7 +11,7 @@
 * [let-er](https://github.com/getify/let-er) - transpiles let-block block-scoping into either ES3 or ES6
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
-* [](http://onilabs.com/stratifiedjs#jsinteraction) - [syntactic sugar](https://conductance.io/reference#sjs:%23language/) for ES6's destructuring, Blocklambdas, `->` arrow syntax, & simplified version of Quasi-Literal / Template String proposal
+* [Conductance](https://conductance.io/reference#sjs:%23language/syntax::calling-javascript) - [syntactic sugar](https://conductance.io/reference#sjs:%23language/) for ES6's destructuring, Blocklambdas, `->` arrow syntax, & simplified version of Quasi-Literal / Template String proposal
 
 ## Build-time transpilation
 
