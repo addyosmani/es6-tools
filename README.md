@@ -4,11 +4,11 @@
 
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5/3. Includes classes, generators, promises, destructuring patterns, default parameters & more. 
 * Square [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
-* [es6ify](https://github.com/thlorenz/es6ify) - browserify transform for ES6 > ES5
+* [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a Browserify v2 transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
-* [defs](https://github.com/olov/defs) - ES6 block scoped const and let variables to ES3 vars
-* [let-er](https://github.com/getify/let-er) - transpiles let-block block-scoping into either ES3 or ES6
+* [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
+* [es6-arrow-function](https://github.com/square/es6-arrow-function) - ES6 arrow functions to ES5
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 
@@ -82,3 +82,6 @@
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://npmjs.org/package/es6-module-packager)
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
+* [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6
+* [Esprima Harmony branch](https://github.com/ariya/esprima/tree/harmony) - Experimental branch of the Esprima parser which can parse ES6 features.
+* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/square/es6-arrow-function).
