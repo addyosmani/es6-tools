@@ -12,6 +12,7 @@
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
+* [Conductance](https://conductance.io/reference#sjs:%23language/syntax::calling-javascript) - [syntactic sugar](https://conductance.io/reference#sjs:%23language/~syntax-enhancements-over-javascript) for ES6's destructuring, Blocklambdas, `->` arrow syntax, & simplified version of Quasi-Literal / Template String proposal
 
 ## Build-time transpilation
 
