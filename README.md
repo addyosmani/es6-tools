@@ -8,6 +8,7 @@
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Square's [es6-arrow-function](https://github.com/square/es6-arrow-function) - ES6 arrow functions to ES5
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
+* Facebook's [jstransform](https://github.com/facebook/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
