@@ -12,6 +12,7 @@
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails](https://github.com/dockyard/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
+* Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 
 ## Build-time transpilation
 
