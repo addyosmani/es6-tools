@@ -29,6 +29,7 @@
 * Regenerator: [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator)
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
 * es6-transpiler: [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
+* esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 
 ## Module Loaders
 
