@@ -72,7 +72,7 @@
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
-
+* [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 
 ## Editors
 
