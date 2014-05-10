@@ -32,6 +32,13 @@
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 
+### Broccoli Plugins
+* Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
+* Regenerator: [broccoli-regenerator](https://github.com/sindresorhus/broccoli-regenerator)
+* ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
+* ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
+* esnext: [broccoli-esnext](https://github.com/shinnn/broccoli-esnext)
+
 ## Module Loaders
 
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compat with latest spec and Traceur)
