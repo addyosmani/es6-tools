@@ -38,6 +38,7 @@
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
 * ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
 * esnext: [broccoli-esnext](https://github.com/shinnn/broccoli-esnext)
+* ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
 
 ## Module Loaders
 
