@@ -2,7 +2,7 @@
 
 ## Transpilers
 
-* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5/3. Includes classes, generators, promises, destructuring patterns, default parameters & more. 
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5/3. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a Browserify v2 transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
@@ -16,7 +16,7 @@
 
 ## Build-time transpilation
 
-### Grunt Tasks 
+### Grunt Tasks
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
@@ -74,9 +74,9 @@
 * [`Object.assign`](https://github.com/sindresorhus/object-assign)
 * [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
-* [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6) 
-* [`Function.create`](https://github.com/walling/Function.create.js) 
-* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/harmony.js) 
+* [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6)
+* [`Function.create`](https://github.com/walling/Function.create.js)
+* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/harmony.js)
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
@@ -93,6 +93,7 @@
 * [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://npmjs.org/package/es6-module-packager)
+* [module-graph](https://github.com/juandopazo/module-graph) and [grunt-module-graph](https://github.com/juandopazo/grunt-module-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
 * [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6
 * [Esprima Harmony branch](https://github.com/ariya/esprima/tree/harmony) - Experimental branch of the Esprima parser which can parse ES6 features.
