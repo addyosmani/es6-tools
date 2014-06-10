@@ -58,7 +58,7 @@
 ## Polyfills
 
 * [es6-shim](http://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
-* [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/ES6-Harmony-Collections-Shim)
+* [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith)
 * [`String.prototype.endsWith`](https://github.com/mathiasbynens/String.prototype.endsWith)
@@ -76,7 +76,7 @@
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6)
 * [`Function.create`](https://github.com/walling/Function.create.js)
-* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/harmony.js)
+* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
