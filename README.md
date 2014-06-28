@@ -7,6 +7,7 @@
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer
+* [es6now](https://github.com/zenparsing/es6now) - ES6 to ES5 compiler and ES6 runtime environment
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform](https://github.com/facebook/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
@@ -90,6 +91,7 @@
 
 ## Other
 
+* [esparse](https://github.com/zenparsing/esparse) - ES6 parser written in ES6
 * [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://npmjs.org/package/es6-module-packager)
