@@ -49,6 +49,9 @@
 * Module Loader for [webpack](https://github.com/shama/es6-module-loader)
 * [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
+## Boilerplates
+* [es6-boilerplate](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers. 
+
 ## Code generation
 
 * [generator-traceur](https://github.com/mikach/generator-traceur) - Yeoman generator for Traceur apps
