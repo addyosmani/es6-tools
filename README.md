@@ -3,7 +3,7 @@
 ## Transpilers
 
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5/3. Includes classes, generators, promises, destructuring patterns, default parameters & more.
-* [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a Browserify v2 transform
+* [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer
@@ -95,11 +95,9 @@
 ## Parsers
 
 * [Esprima Harmony branch](https://github.com/ariya/esprima/tree/harmony) - Experimental branch of the Esprima parser which can parse ES6 features to [SpiderMonkey AST][mozast] format.
-* [Acorn](https://github.com/marijnh/acorn/) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST][mozast] format.
+* [Acorn](https://github.com/marijnh/acorn/) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [esparse](https://github.com/zenparsing/esparse) - ES6 parser written in ES6.
 * [Traceur compiler](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
-
-[mozast]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API
 
 ## Other
 
