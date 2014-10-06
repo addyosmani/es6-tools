@@ -15,6 +15,7 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
+* [6to5](https://github.com/sebmck/6to5) - Turn ES6 code into vanilla ES5 with no runtime
 
 ## Build-time transpilation
 
@@ -26,6 +27,7 @@
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * esnext: [grunt-esnext](https://github.com/shinnn/grunt-esnext)
+* 6to5: [grunt-6to5](https://github.com/sindresorhus/grunt-6to5)
 
 ### Gulp Plugins
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
@@ -35,6 +37,7 @@
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
+* 6to5: [gulp-6to5](https://github.com/sindresorhus/gulp-6to5)
 
 ### Broccoli Plugins
 * Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
