@@ -2,7 +2,7 @@
 
 ## Transpilers
 
-* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5/3. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
