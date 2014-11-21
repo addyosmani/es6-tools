@@ -74,7 +74,7 @@
 * [`String.prototype.endsWith`](https://github.com/mathiasbynens/String.prototype.endsWith)
 * [`String.prototype.at`](https://github.com/mathiasbynens/String.prototype.at)
 * [`String.prototype.repeat`](https://github.com/mathiasbynens/String.prototype.repeat)
-* [`String.prototype.contains`](https://github.com/mathiasbynens/String.prototype.contains)
+* [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes)
 * [`String.prototype.codePointAt`](https://github.com/mathiasbynens/String.prototype.codePointAt)
 * [`String.fromCodePoint`](https://github.com/mathiasbynens/String.fromCodePoint)
 * [`Array.prototype.find`](https://github.com/paulmillr/Array.prototype.find)
