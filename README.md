@@ -16,6 +16,7 @@
 * Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
 * [6to5](https://github.com/sebmck/6to5) - Turn ES6 code into vanilla ES5 with no runtime
+* [jsdc](https://github.com/army8735/jsdc) - Javascript Downcast (es6 to es5)
 
 ## Build-time transpilation
 
@@ -38,6 +39,7 @@
 * esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
 * 6to5: [gulp-6to5](https://github.com/sindresorhus/gulp-6to5)
+* jsdc: [gulp-jsdc](https://github.com/army8735/gulp-jsdc)
 
 ### Broccoli Plugins
 * Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
