@@ -97,6 +97,7 @@
 ## Editors
 
 * ES6 syntax highlighting for [Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+* ES6 syntax support in WebStorm and PhpStorm, compilation to ES5 with [Traceur file watcher](https://www.youtube.com/watch?v=jbfkcmxLLKY)
 * DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
 
 ## Parsers
