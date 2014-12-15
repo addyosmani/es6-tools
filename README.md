@@ -84,6 +84,8 @@
 * [`Object.assign`](https://github.com/sindresorhus/object-assign)
 * [`Number.isFinite`](https://github.com/sindresorhus/is-finite)
 * [`Math.sign`](https://github.com/sindresorhus/math-sign)
+* [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match)
+* [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search)
 * [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6)
