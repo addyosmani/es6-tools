@@ -88,7 +88,6 @@
 * [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search)
 * [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
-* [ECMAScript 6 polyfill](https://github.com/monolithed/ECMAScript-6)
 * [`Function.create`](https://github.com/walling/Function.create.js)
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
