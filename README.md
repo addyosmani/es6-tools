@@ -2,6 +2,7 @@
 
 ## Transpilers
 
+* [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
@@ -15,11 +16,11 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
-* [6to5](https://github.com/sebmck/6to5) - Turn ES6 code into vanilla ES5 with no runtime
 
 ## Build-time transpilation
 
 ### Grunt Tasks
+* 6to5: [grunt-6to5](https://github.com/sindresorhus/grunt-6to5) - Turn ES6+ code into vanilla ES5 with no runtime
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
@@ -27,9 +28,9 @@
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * esnext: [grunt-esnext](https://github.com/shinnn/grunt-esnext)
-* 6to5: [grunt-6to5](https://github.com/sindresorhus/grunt-6to5)
 
 ### Gulp Plugins
+* 6to5: [gulp-6to5](https://github.com/sindresorhus/gulp-6to5)
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
 * Regenerator: [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator)
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
@@ -37,15 +38,44 @@
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
-* 6to5: [gulp-6to5](https://github.com/sindresorhus/gulp-6to5)
 
 ### Broccoli Plugins
+* 6to5: [broccoli-6to5-transpiler](https://github.com/very-geek/broccoli-6to5-transpiler)
 * Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
 * Regenerator: [broccoli-regenerator](https://github.com/sindresorhus/broccoli-regenerator)
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
 * ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
 * esnext: [broccoli-esnext](https://github.com/shinnn/broccoli-esnext)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
+
+## Webpack plugins
+* 6to5: [6to5-loader](https://github.com/6to5/6to5-loader)
+* Traceur: [webpack-traceur-loader](https://github.com/ndhoule/webpack-traceur-loader)
+
+## Duo plugins
+* 6to5: [duo-6to5](https://github.com/bdo-labs/duo6to5)
+
+## Connect plugins
+* 6to5: [6to5-connect](https://github.com/6to5/connect)
+
+## Gobble plugins
+* 6to5: [gobble-6to5](https://github.com/6to5/gobble-6to5)
+* Traceur: [gobble-es6-transpiler](https://github.com/gobblejs/gobble-es6-transpiler)
+
+## Jade plugins
+* 6to5: [jade-6to5](https://github.com/apoxx/jade-6to5)
+* Traceur: [jade-traceur](https://www.npmjs.org/package/jade-traceur)
+
+## Jest plugins
+* 6to5: [6to5-jest](https://github.com/6to5/jest)
+
+## Karma plugins
+* 6to5: [karma-6to5-preprocessor](https://github.com/shuhei/karma-6to5-preprocessor)
+* Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
+
+## Sprockets plugins
+* 6to5: [sprockets-es6](https://github.com/josh/sprockets-es6)
+* Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
 
 ## Module Loaders
 
@@ -120,3 +150,5 @@
 * [Paws on ES6](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities.
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 * [es6-translate](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
+* [Isparta](https://github.com/douglasduteil/isparta)
+* [6to5-node](http://6to5.github.io/usage.html#node-2) - Run node cli with ES6 transpiling using 6to5.
