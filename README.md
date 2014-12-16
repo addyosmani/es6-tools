@@ -48,6 +48,10 @@
 * esnext: [broccoli-esnext](https://github.com/shinnn/broccoli-esnext)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
 
+### Brunch Plugins
+* 6to5: [6to5-brunch](https://github.com/6to5/6to5-brunch)
+* ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
+
 ## Webpack plugins
 * 6to5: [6to5-loader](https://github.com/6to5/6to5-loader)
 * Traceur: [webpack-traceur-loader](https://github.com/ndhoule/webpack-traceur-loader)
