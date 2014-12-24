@@ -5,6 +5,7 @@
 * [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
+* [6to5ify](https://github.com/6to5/6to5ify) - 6to5 transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer
