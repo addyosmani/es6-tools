@@ -58,7 +58,7 @@
 * Traceur: [webpack-traceur-loader](https://github.com/ndhoule/webpack-traceur-loader)
 
 ## Duo plugins
-* 6to5: [duo-6to5](https://github.com/bdo-labs/duo6to5)
+* 6to5: [duo-6to5](https://github.com/6to5/duo-6to5)
 
 ## Connect plugins
 * 6to5: [6to5-connect](https://github.com/6to5/connect)
