@@ -30,7 +30,7 @@
 * esnext: [grunt-esnext](https://github.com/shinnn/grunt-esnext)
 
 ### Gulp Plugins
-* 6to5: [gulp-6to5](https://github.com/sindresorhus/gulp-6to5)
+* 6to5: [gulp-babel](https://github.com/babel/gulp-babel)
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
 * Regenerator: [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator)
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
@@ -40,7 +40,7 @@
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
 
 ### Broccoli Plugins
-* 6to5: [broccoli-6to5-transpiler](https://github.com/very-geek/broccoli-6to5-transpiler)
+* 6to5: [broccoli-babel-transpiler](https://github.com/babel/broccoli-babel-transpiler)
 * Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
 * Regenerator: [broccoli-regenerator](https://github.com/sindresorhus/broccoli-regenerator)
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
@@ -67,14 +67,14 @@
 * Traceur: [gobble-es6-transpiler](https://github.com/gobblejs/gobble-es6-transpiler)
 
 ## Jade plugins
-* 6to5: [jade-6to5](https://github.com/apoxx/jade-6to5)
+* 6to5: [jade-babel](https://github.com/babel/jade-babel)
 * Traceur: [jade-traceur](https://www.npmjs.org/package/jade-traceur)
 
 ## Jest plugins
 * 6to5: [babel-jest](https://github.com/babel/babel-jest)
 
 ## Karma plugins
-* 6to5: [karma-6to5-preprocessor](https://github.com/shuhei/karma-6to5-preprocessor)
+* 6to5: [karma-babel-preprocessor](https://github.com/babel/karma-babel-preprocessor)
 * Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
 
 ## Sprockets plugins
@@ -156,6 +156,6 @@
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 * [es6-translate](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
 * [Isparta](https://github.com/douglasduteil/isparta)
-* [6to5-node](http://6to5.github.io/usage.html#node-2) - Run node cli with ES6 transpiling using 6to5.
+* [6to5-node](http://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using 6to5.
 * [ES6 Lab setup](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `6to5` or `traceur` with `gulp` and `jasmine` support.
 * [TypeScript](http://www.typescriptlang.org/) - A superset of ECMAScript with strict typing that aims to align with ES6
