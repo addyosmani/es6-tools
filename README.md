@@ -5,7 +5,7 @@
 * [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
-* [6to5ify](https://github.com/6to5/6to5ify) - 6to5 transpiler wrapped as a [Browserify](http://browserify.org/) transform
+* [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer now a part of 6to5.
@@ -49,21 +49,21 @@
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
 
 ### Brunch Plugins
-* 6to5: [6to5-brunch](https://github.com/6to5/6to5-brunch)
+* 6to5: [babel-brunch](https://github.com/babel/babel-brunch)
 * ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
 
 ## Webpack plugins
-* 6to5: [6to5-loader](https://github.com/6to5/6to5-loader)
+* 6to5: [babel-loader](https://github.com/babel/babel-loader)
 * Traceur: [webpack-traceur-loader](https://github.com/ndhoule/webpack-traceur-loader)
 
 ## Duo plugins
-* 6to5: [duo-6to5](https://github.com/6to5/duo-6to5)
+* 6to5: [duo-babel](https://github.com/babel/duo-babel)
 
 ## Connect plugins
-* 6to5: [6to5-connect](https://github.com/6to5/connect)
+* 6to5: [babel-connect](https://github.com/babel/babel-connect)
 
 ## Gobble plugins
-* 6to5: [gobble-6to5](https://github.com/6to5/gobble-6to5)
+* 6to5: [gobble-babel](https://github.com/babel/gobble-babel)
 * Traceur: [gobble-es6-transpiler](https://github.com/gobblejs/gobble-es6-transpiler)
 
 ## Jade plugins
@@ -71,7 +71,7 @@
 * Traceur: [jade-traceur](https://www.npmjs.org/package/jade-traceur)
 
 ## Jest plugins
-* 6to5: [6to5-jest](https://github.com/6to5/jest)
+* 6to5: [babel-jest](https://github.com/babel/babel-jest)
 
 ## Karma plugins
 * 6to5: [karma-6to5-preprocessor](https://github.com/shuhei/karma-6to5-preprocessor)
