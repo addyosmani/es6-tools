@@ -16,6 +16,7 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
+* [xto6](https://github.com/mohebifar/xto6) — Turn ES5 code into ES5
 
 ## Build-time transpilation
 
