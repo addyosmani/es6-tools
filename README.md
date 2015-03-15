@@ -81,6 +81,9 @@
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
 
+## Browser plugins
+* [Scratch JS](https://github.com/richgilbank/Scratch-JS) - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
+
 ## Module Loaders
 
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compat with latest spec and Traceur)
