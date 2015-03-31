@@ -8,7 +8,7 @@
 * [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
-* Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer now a part of 6to5.
+* Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer now a part of Babel.
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform](https://github.com/facebook/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
