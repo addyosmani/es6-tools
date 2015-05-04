@@ -77,6 +77,9 @@
 * Babel: [karma-babel-preprocessor](https://github.com/babel/karma-babel-preprocessor)
 * Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
 
+## Mocha plugins
+* Traceur: [mocha-traceur](https://github.com/domenic/mocha-traceur)
+
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
