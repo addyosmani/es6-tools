@@ -8,7 +8,6 @@
 * [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/square/es6-module-transpiler) - ES6 modules to AMD or CJS
-* Square's [esnext](https://github.com/square/esnext) - next generation JavaScript to today's JavaScript transformer now a part of 6to5.
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform](https://github.com/facebook/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
@@ -27,7 +26,6 @@
 * [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/ES6-Promises/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
-* esnext: [grunt-esnext](https://github.com/shinnn/grunt-esnext)
 
 ### Gulp Plugins
 * Babel: [gulp-babel](https://github.com/babel/gulp-babel)
@@ -36,7 +34,6 @@
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
 * es6-transpiler: [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
-* esnext: [gulp-esnext](https://github.com/sindresorhus/gulp-esnext)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
 
 ### Broccoli Plugins
@@ -45,7 +42,6 @@
 * Regenerator: [broccoli-regenerator](https://github.com/sindresorhus/broccoli-regenerator)
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
 * ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
-* esnext: [broccoli-esnext](https://github.com/shinnn/broccoli-esnext)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
 
 ### Brunch Plugins
