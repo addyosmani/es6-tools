@@ -3,6 +3,7 @@
 ## Transpilers
 
 * [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* [TypeScript](https://github.com/Microsoft/TypeScript) - ES6+ features > ES5/ES3. Includes classes, modules, decorators, destructuring, spread, for..of, symbols, computed properties, let/const, and tagged string templates.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
@@ -20,6 +21,7 @@
 
 ### Grunt Tasks
 * Babel: [grunt-babel](https://github.com/babel/grunt-babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* TypeScript: [grunt-ts](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
@@ -29,6 +31,7 @@
 
 ### Gulp Plugins
 * Babel: [gulp-babel](https://github.com/babel/gulp-babel)
+* TypeScript: [gulp-typescript](https://github.com/ivogabe/gulp-typescript)
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
 * Regenerator: [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator)
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
@@ -38,6 +41,7 @@
 
 ### Broccoli Plugins
 * Babel: [broccoli-babel-transpiler](https://github.com/babel/broccoli-babel-transpiler)
+* TypeScript: [broccoli-tsc](https://github.com/angie-party/broccoli-tsc)
 * Traceur: [broccoli-traceur](https://github.com/sindresorhus/broccoli-traceur)
 * Regenerator: [broccoli-regenerator](https://github.com/sindresorhus/broccoli-regenerator)
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
@@ -46,17 +50,21 @@
 
 ### Brunch Plugins
 * Babel: [babel-brunch](https://github.com/babel/babel-brunch)
+* TypeScript: [typescript-brunch](https://github.com/joshheyse/typescript-brunch)
 * ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
 
 ## Webpack plugins
 * Babel: [babel-loader](https://github.com/babel/babel-loader)
+* TypeScript: [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)
 * Traceur: [traceur-compiler-loader](https://github.com/gdi2290/traceur-compiler-loader)
 
 ## Duo plugins
 * Babel: [duo-babel](https://github.com/babel/duo-babel)
+* TypeScript: [duo-typescript](https://github.com/frankwallis/duo-typescript)
 
 ## Connect plugins
 * Babel: [babel-connect](https://github.com/babel/babel-connect)
+* TypeScript: [typescript-middleware](https://github.com/brn/typescript-middleware)
 
 ## Gobble plugins
 * Babel: [gobble-babel](https://github.com/babel/gobble-babel)
@@ -71,10 +79,12 @@
 
 ## Karma plugins
 * Babel: [karma-babel-preprocessor](https://github.com/babel/karma-babel-preprocessor)
+* TypeScript: [karma-typescript-preprocessor](https://github.com/sergeyt/karma-typescript-preprocessor)
 * Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
 
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
+* TypeScript: [typescript-rails](https://github.com/typescript-ruby/typescript-rails)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
 
 ## Browser plugins
@@ -98,6 +108,7 @@
 
 * [generator-node-esnext](https://github.com/briandipalma/generator-node-esnext) - Yeoman generator for Traceur apps
 * [generator-es6-babel](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
+* [generator-typescript](https://github.com/mrkev/generator-typescript) - Yeoman generator for TypeScript apps
 * [grunt-init-es6](https://npmjs.org/package/grunt-init-es6) - scaffold node modules with unit tests, authored in ES6
 * [Loom generators with ES6 ember modules](https://github.com/rpflorence/loom-generators-ember)
 * Brunch [plugin](https://npmjs.org/package/es6-module-transpiler-brunch) for ES6 module transpilation
