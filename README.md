@@ -15,6 +15,7 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/bitovi/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
+* [esperanto](https://github.com/esperantojs/esperanto) - ES6 modules for the rest of us [web-demo](http://esperantojs.org/)
 
 ## Build-time transpilation
 
@@ -26,6 +27,7 @@
 * [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/ES6-Promises/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
+* esperanto: [grunt-esperanto](https://www.npmjs.com/package/grunt-esperanto)
 
 ### Gulp Plugins
 * Babel: [gulp-babel](https://github.com/babel/gulp-babel)
@@ -35,6 +37,7 @@
 * es6-transpiler: [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
+* esperanto: [gulp-esperanto](https://www.npmjs.com/package/gulp-esperanto)
 
 ### Broccoli Plugins
 * Babel: [broccoli-babel-transpiler](https://github.com/babel/broccoli-babel-transpiler)
