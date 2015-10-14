@@ -88,7 +88,7 @@
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
-* Module Loader for [webpack](https://github.com/shama/es6-module-loader)
+* [Babel Module Loader](https://github.com/babel/babel-loader)
 * [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
 ## Boilerplates
