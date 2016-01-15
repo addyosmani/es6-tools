@@ -19,15 +19,6 @@
 
 ## Build-time transpilation
 
-### Grunt Tasks
-* Babel: [grunt-babel](https://github.com/babel/grunt-babel) - Turn ES6+ code into vanilla ES5 with no runtime
-* Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
-* ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
-* Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
-* [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
-* [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
-* es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
-
 ### Gulp Plugins
 * Babel: [gulp-babel](https://github.com/babel/gulp-babel)
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur)
@@ -36,6 +27,17 @@
 * es6-transpiler: [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * regexpu: [gulp-regexpu](https://github.com/mathiasbynens/gulp-regexpu)
+* TypeScript: [gulp-typescript](https://github.com/ivogabe/gulp-typescript)
+
+### Grunt Tasks
+* Babel: [grunt-babel](https://github.com/babel/grunt-babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
+* ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
+* Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
+* [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
+* [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
+* es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
+* TypeScript: [grunt-ts](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation
 
 ### Broccoli Plugins
 * Babel: [broccoli-babel-transpiler](https://github.com/babel/broccoli-babel-transpiler)
@@ -44,20 +46,25 @@
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
 * ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
+* TypeScript: [broccoli-tsc](https://github.com/angie-party/broccoli-tsc)
 
 ### Brunch Plugins
 * Babel: [babel-brunch](https://github.com/babel/babel-brunch)
 * ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
+* TypeScript: [typescript-brunch](https://github.com/joshheyse/typescript-brunch)
 
 ## Webpack plugins
 * Babel: [babel-loader](https://github.com/babel/babel-loader)
 * Traceur: [traceur-compiler-loader](https://github.com/gdi2290/traceur-compiler-loader)
+* TypeScript: [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)
 
 ## Duo plugins
 * Babel: [duo-babel](https://github.com/babel/duo-babel)
+* TypeScript: [duo-typescript](https://github.com/frankwallis/duo-typescript)
 
 ## Connect plugins
 * Babel: [babel-connect](https://github.com/babel/babel-connect)
+* TypeScript: [typescript-middleware](https://github.com/brn/typescript-middleware)
 
 ## Gobble plugins
 * Babel: [gobble-babel](https://github.com/babel/gobble-babel)
@@ -73,13 +80,16 @@
 ## Karma plugins
 * Babel: [karma-babel-preprocessor](https://github.com/babel/karma-babel-preprocessor)
 * Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
+* TypeScript: [karma-typescript-preprocessor](https://github.com/sergeyt/karma-typescript-preprocessor)
 
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
+* TypeScript: [typescript-rails](https://github.com/typescript-ruby/typescript-rails)
 
 ## Browser plugins
 * [Scratch JS](https://github.com/richgilbank/Scratch-JS) - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
+* [generator-typescript](https://github.com/mrkev/generator-typescript) - Yeoman generator for TypeScript apps
 
 ## Mocha plugins
 * [Mocha Traceur](https://github.com/domenic/mocha-traceur) - A simple plugin for Mocha to pass JS files through the Traceur compiler
