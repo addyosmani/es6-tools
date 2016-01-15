@@ -104,6 +104,7 @@
 
 ## Boilerplates
 * [es6-boilerplate](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
+* [webapplate](https://github.com/webapplate/webapplate) The template to create a universal web app with ES6(babel), future-proved CSS(postcss), client side localization(l20n), unit test and eslint. Gulp scripts help you deploy app as server, client, Android/iOS/FxOS or desktop products.
 
 ## Code generation
 
