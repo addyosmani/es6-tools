@@ -150,6 +150,7 @@
 * ES6 syntax highlighting for [Sublime Text and TextMate](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 * ES6 syntax support in [WebStorm](https://www.jetbrains.com/webstorm/) and [PhpStorm](https://www.jetbrains.com/phpstorm/), compilation to ES5 with [file watchers or task runners](http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
 * DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
+* ES6 Toolkit for [Sublime Text](https://packagecontrol.io/packages/ES6-Toolkit)
 
 ## Parsers
 
