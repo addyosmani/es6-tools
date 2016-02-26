@@ -9,7 +9,7 @@
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
-* Facebook's [jstransform](https://github.com/facebook/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
+* Facebook's [jstransform](https://github.com/facebookarchive/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
@@ -46,7 +46,7 @@
 * ES6 Transpiler: [broccoli-transpiler](https://github.com/sindresorhus/broccoli-es6-transpiler)
 * ES6 Module Transpiler: [broccoli-es6-module-transpiler](https://github.com/mmun/broccoli-es6-module-transpiler)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
-* TypeScript: [broccoli-tsc](https://github.com/angie-party/broccoli-tsc)
+* TypeScript: [broccoli-tsc](https://github.com/ngParty/broccoli-tsc)
 
 ### Brunch Plugins
 * Babel: [babel-brunch](https://github.com/babel/babel-brunch)
@@ -136,7 +136,7 @@
 * [`Math.sign`](https://github.com/sindresorhus/math-sign)
 * [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match)
 * [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search)
-* [es6-promise](https://github.com/jakearchibald/ES6-Promises) - polyfill for Promises matching the ES6 API
+* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [`Function.create`](https://github.com/walling/Function.create.js)
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
