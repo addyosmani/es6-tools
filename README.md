@@ -152,6 +152,7 @@
 * ES6 syntax support in [WebStorm](https://www.jetbrains.com/webstorm/) and [PhpStorm](https://www.jetbrains.com/phpstorm/), compilation to ES5 with [file watchers or task runners](http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
 * DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
 * Grammar and transpilation [package](https://github.com/gandm/language-babel)  for [Atom](https://atom.io/)
+* Learn ES6 transpilation options in Webstorm [Read Blog Post](http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
 
 ## Parsers
 
