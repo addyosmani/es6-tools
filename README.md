@@ -153,6 +153,8 @@
 * DocPad [plugin](https://github.com/pflannery/docpad-plugin-traceur) for Traceur
 * Grammar and transpilation [package](https://github.com/gandm/language-babel)  for [Atom](https://atom.io/)
 * Learn ES6 transpilation options in Webstorm [Read Blog Post](http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
+* ES6 snippets and syntax highlighting for [vim](https://github.com/isRuslan/vim-es6)
+* Another JavaScript Syntax for [Vim](https://github.com/othree/yajs.vim)
 
 ## Parsers
 
