@@ -105,6 +105,7 @@
 ## Boilerplates
 * [es6-boilerplate](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
 * [es6-jspm-gulp-boilerplate](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
+* [babel-starter-kit](https://github.com/nathanchapman/babel-starter-kit) - The starter kit for writing next generation JavaScript Libraries. Comes with Babel, Mocha, Chai, Eslint, Coverage, etc.
 
 ## Code generation
 
