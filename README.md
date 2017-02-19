@@ -82,6 +82,9 @@
 * Traceur: [karma-traceur-preprocessor](https://github.com/karma-runner/karma-traceur-preprocessor)
 * TypeScript: [karma-typescript-preprocessor](https://github.com/sergeyt/karma-typescript-preprocessor)
 
+## Mocha plugins
+* Traceur: [mocha-traceur](https://github.com/domenic/mocha-traceur)
+
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
