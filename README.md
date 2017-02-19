@@ -51,7 +51,7 @@
 ### Brunch Plugins
 * Babel: [babel-brunch](https://github.com/babel/babel-brunch)
 * ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
-* TypeScript: [typescript-brunch](https://github.com/joshheyse/typescript-brunch)
+* TypeScript: [typescript-brunch](https://github.com/brunch/typescript-brunch)
 
 ## Webpack plugins
 * Babel: [babel-loader](https://github.com/babel/babel-loader)
@@ -83,7 +83,7 @@
 * TypeScript: [karma-typescript-preprocessor](https://github.com/sergeyt/karma-typescript-preprocessor)
 
 ## Sprockets plugins
-* Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
+* Babel: [sprockets-es6](https://github.com/TannerRogalsky/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
 * TypeScript: [typescript-rails](https://github.com/typescript-ruby/typescript-rails)
 
@@ -143,7 +143,7 @@
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
-* [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
+* [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](https://github.com/tvcutsem/harmony-reflect/blob/master/doc/api.md) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 
 ## Editors
