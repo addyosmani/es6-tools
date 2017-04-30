@@ -16,6 +16,7 @@
 * Bitovi's [transpile](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
 * [Lebab](https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (approximates)
+* [Buble](https://gitlab.com/Rich-Harris/buble) - The blazing fast, batteries-included ES2015 compiler
 
 ## Build-time transpilation
 
