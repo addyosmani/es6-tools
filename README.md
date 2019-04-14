@@ -105,6 +105,7 @@
 ## Boilerplates
 * [es6-boilerplate](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
 * [es6-jspm-gulp-boilerplate](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
+* [iso-module-boilerplate](https://github.com/isysd-mirror/iso-module-boilerplate) - Isomorphic (ES6 + NodeJS) module boilerplate, with test framework integration for NodeJS and all browser / OS combinations.
 
 ## Code generation
 
@@ -178,3 +179,4 @@
 * [ES6 Lab setup](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `Babel` or `traceur` with `gulp` and `jasmine` support.
 * [TypeScript](http://www.typescriptlang.org/) - A superset of ECMAScript with strict typing that aims to align with ES6
 * [Rollup](http://rollupjs.org/) - Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js
+* [iso-test](https://github.com/isysd-mirror/iso-test) - An isomorphic testing framework to test es6 modules using nodejs and all browser / OS combinations.
