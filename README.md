@@ -83,7 +83,7 @@
 * TypeScript: [karma-typescript-preprocessor](https://github.com/sergeyt/karma-typescript-preprocessor)
 
 ## Sprockets plugins
-* Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
+* Babel: [sprockets-es6](https://github.com/TannerRogalsky/sprockets-es6)
 * Traceur: [sprockets-traceur](https://github.com/gunpowderlabs/sprockets-traceur)
 * TypeScript: [typescript-rails](https://github.com/typescript-ruby/typescript-rails)
 
