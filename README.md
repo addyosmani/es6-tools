@@ -119,7 +119,7 @@
 
 * [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel).
 * [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
-* [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
+* [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/CodeMonkeyG/harmony-collections)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith)
 * [`String.prototype.endsWith`](https://github.com/mathiasbynens/String.prototype.endsWith)
