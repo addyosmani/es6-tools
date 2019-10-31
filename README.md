@@ -51,7 +51,7 @@
 ### Brunch Plugins
 * Babel: [babel-brunch](https://github.com/babel/babel-brunch)
 * ES6 Module Transpiler: [es6-module-transpiler-brunch](https://github.com/gcollazo/es6-module-transpiler-brunch)
-* TypeScript: [typescript-brunch](https://github.com/joshheyse/typescript-brunch)
+* TypeScript: [typescript-brunch](https://github.com/brunch/typescript-brunch)
 
 ## Webpack plugins
 * Babel: [babel-loader](https://github.com/babel/babel-loader)
